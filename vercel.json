@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/optimize",
+      "destination": "https://n8n.gambino.gold/webhook/prompt-optimizer"
+    }
+  ]
+}
